@@ -1,0 +1,3 @@
+rootProject.name = 'smartalarmcontrol'
+
+include ':app'
